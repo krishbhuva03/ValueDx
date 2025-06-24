@@ -26,3 +26,4 @@ function isEmpty(stack){
 console.log(isEmpty(stack)); 
 
 // there is no errors like stack overflow or stack underflow in javascript but we can create our own function to check for these errors
+
